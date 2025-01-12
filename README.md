@@ -121,6 +121,7 @@ You have read this far?
 ⚡ Fun fact: ...⚡ 
 - [Creative Writing](https://davidkoehn.com)
 - [University of Chicago | Omnidawn Books](https://press.uchicago.edu/ucp/books/author/K/D/au43347565.html)
+- [Sign of the Four NFT on Open Sea](https://opensea.io/assets/matic/0xb50abcdb023e5b0d31d349a13e9e6ca366337d82/1/)
 
 ...we got jokes...
 
