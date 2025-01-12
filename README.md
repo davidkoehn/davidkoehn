@@ -1,5 +1,6 @@
 ![Header](https://github.com/davidkoehn/davidkoehn/blob/main/header.png)
 
+
 <table>
   <tr>
     <td style="vertical-align: top;">
@@ -8,9 +9,28 @@
       </tr>
 </table>
 
+----
+## Table of Contents
+- [Pronouns](#pronouns)
+- [Currently working with ...](#currently-working-with-)
+- [Support My Work](#support-my-work)
+- [Technical Skills](#technical-skills)
+- [Current Projects](#current-projects)
+- [Connect with me](#connect-with-me)
+- [Currently learning ...](#currently-learning-)
+- [Looking to collaborate on ...](#looking-to-collaborate-on-)
+- [Ask me about ...](#ask-me-about-)
+- [Past Products/Projects I'm Proud of](#past-productsprojects-im-proud-of)
+- [Volunteer Work](#volunteer-work)
+- [Fun Fact](#fun-fact)
+- [...we got jokes...](#we-got-jokes)
+
+## Pronouns
+- he/him
+
 🌊 🏔️ 🌳 social impact focused human 🔄 about creating better products faster 🌊 🏔️ 🌳
 
-## 🔭 I’m currently working with ...
+## Currently working with ...  
 
 - StringTree as a consultant/fractional CPO
 - Classera as a consultant/fractional CPO
@@ -82,21 +102,18 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidkoehn&show_icons=true)
 
-🌱 I’m currently learning ... 🌱 
+## Currently learning ... 
 - studying Bonds and their utility with Principles of Responsible Investment (PRI)
 - Deep in Crypto and Blockhain
 - Peru
 
-👯 I’m looking to collaborate on ... 👯 
+## Looking to collaborate on ... 
 - Using technology for social good
 
-💬 Ask me about ...💬 
+## Ask me about ...
 - Pocket Ventures and social impact projects
 - Better products faster
 - Product market fit
-  
-😄 Pronouns: ... 😄
-- he/him
 
 ## Past Products/Projects I'm Proud of:
 * Saba Social Learning
@@ -106,7 +123,7 @@
 * The Batchery
 * IASV
 
-Volunteer Work:
+#### Volunteer Work:
 * Vida Verde - pro bono
 * Slide Ranch - pro bono
 * Sisters Project Peru - pro bono
@@ -118,11 +135,11 @@ Volunteer Work:
 
 You have read this far? 
 
-⚡ Fun fact: ...⚡ 
+## Fun Fact: 
 - [Creative Writing](https://davidkoehn.com)
 - [University of Chicago | Omnidawn Books](https://press.uchicago.edu/ucp/books/author/K/D/au43347565.html)
 - [Sign of the Four NFT on Open Sea](https://opensea.io/assets/matic/0xb50abcdb023e5b0d31d349a13e9e6ca366337d82/1/)
 
-...we got jokes...
+## ...we got jokes...
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
