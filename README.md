@@ -8,7 +8,7 @@
       </tr>
 </table>
 
-🌊🏔️🌳 social impact focused human passionate about creating better products faster 🌊🏔️🌳
+🌊 🏔️ 🌳 social impact focused human 🔄 about creating better products faster 🌊 🏔️ 🌳
 
 ## 🔭 I’m currently working with ...
 
@@ -17,6 +17,25 @@
 - Pocket Ventures as a Maker
   
 ##  ...contact [me](https://www.linkedin.com/in/davidkoehn/) to assist you 🔭
+
+### Support My Work 
+
+#### [Donate via Bitcoin](#donate-bitcoin)*
+  
+<a id="donate-bitcoin"></a>
+#### *Bitcoin QR Code
+<a href="bitcoin:bc1q7lwqy08xkufksg20klvl0wshuex5fa3qjsw39u">
+  <img src="/bitcoin-qr.png" alt="Donate Bitcoin" style="width: 150px; height: 150px;">
+</a>
+
+---
+#### [Donate via Ethereum](#donate-ethereum)*
+
+<a id="donate-ethereum"></a>
+#### *Ethereum QR Code
+<a href="ethereum:0x98b99b2f0F15206032AB0785893aB67Ae21dd94a">
+  <img src="/ethereum-qr.png" alt="Donate Ethereum" style="width: 150px; height: 150px;">
+</a>
 
 ## Technical Skills
 - **Languages:** Python, JavaScript, Typescript, HTML/CSS
