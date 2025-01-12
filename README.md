@@ -90,4 +90,5 @@ You have read this far?
 - [Creative Writing](https://davidkoehn.com)
 - [University of Chicago | Omnidawn Books](https://press.uchicago.edu/ucp/books/author/K/D/au43347565.html)
 
+...we got jokes...
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
