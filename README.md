@@ -42,7 +42,7 @@
       <h4>Donate via Venmo</h4>
       <a id="donate-venmo"></a>
       <a href="https://venmo.com/David-Koehn-5">
-        <img src="/venmo-qr.png" alt="Donate Venmo" style="width: 190px; height: 170px;">
+        <img src="/venmo-qr.png" alt="Donate Venmo" style="width: 150px; height: 150px;">
       </a>
     </td>
   </tr>
