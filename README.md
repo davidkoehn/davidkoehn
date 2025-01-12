@@ -1,8 +1,16 @@
 ![Header](https://github.com/davidkoehn/davidkoehn/blob/main/header.png)
 
-# 💚 💚 product leader focused on innovation, growth, and transformation 💚 💚
-
-🌊🏔️🌳 social impact focused human passionate about creating better products faster 🌊🏔️🌳 
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <h1>💚  product leader focused on social innovation, growth of sustainable enterprise, and healthy digital transformation  💚</h1>
+      <p>🌊🏔️🌳 social impact focused human passionate about creating better products faster 🌊🏔️🌳</p>
+    </td>
+    <td style="width: 150px;">
+      <img src="https://github.com/davidkoehn/davidkoehn/blob/main/DavidKoehn%20GitHub%20Profile.png" alt="David Koehn GitHub Profile" style="width: 150px;">
+    </td>
+  </tr>
+</table>
 
 ## 🔭 I’m currently working with ...
 
@@ -82,4 +90,4 @@ You have read this far?
 
 ⚡ Fun fact: ...⚡ 
 - [Creative Writing](https://davidkoehn.com)
-- [University of Chicago | Omndawn Books](https://press.uchicago.edu/ucp/books/author/K/D/au43347565.html)
+- [University of Chicago | Omnidawn Books](https://press.uchicago.edu/ucp/books/author/K/D/au43347565.html)
