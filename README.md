@@ -20,22 +20,35 @@
 
 ### Support My Work 
 
-#### [Donate via Bitcoin](#donate-bitcoin)*
-  
-<a id="donate-bitcoin"></a>
-#### *Bitcoin QR Code
-<a href="bitcoin:bc1q7lwqy08xkufksg20klvl0wshuex5fa3qjsw39u">
-  <img src="/bitcoin-qr.png" alt="Donate Bitcoin" style="width: 150px; height: 150px;">
-</a>
+<table style="width: 100%; border: 0;">
+  <tr>
+    <td style="padding: 40px; text-align: center; width: 30%; border: 0;">
+      <h4>Donate via Bitcoin</h4>
+      <a id="donate-bitcoin"></a>
+      <a href="bitcoin:bc1q7lwqy08xkufksg20klvl0wshuex5fa3qjsw39u">
+        <img src="/bitcoin-qr.png" alt="Donate Bitcoin" style="width: 150px; height: 150px;">
+      </a>
+    </td>
+    <td style="width: 5%; border: 0;"></td>
+    <td style="padding: 40px; text-align: center; width: 30%; border: 0;">
+      <h4>Donate via Ethereum</h4>
+      <a id="donate-ethereum"></a>
+      <a href="ethereum:0x98b99b2f0F15206032AB0785893aB67Ae21dd94a">
+        <img src="/ethereum-qr.png" alt="Donate Ethereum" style="width: 150px; height: 150px;">
+      </a>
+    </td>
+    <td style="width: 5%; border: 0;"></td>
+    <td style="padding: 40px; text-align: center; width: 30%; border: 0;">
+      <h4>Donate via Venmo</h4>
+      <a id="donate-venmo"></a>
+      <a href="https://venmo.com/David-Koehn-5">
+        <img src="/venmo-qr.png" alt="Donate Venmo" style="width: 190px; height: 170px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-#### [Donate via Ethereum](#donate-ethereum)*
-
-<a id="donate-ethereum"></a>
-#### *Ethereum QR Code
-<a href="ethereum:0x98b99b2f0F15206032AB0785893aB67Ae21dd94a">
-  <img src="/ethereum-qr.png" alt="Donate Ethereum" style="width: 150px; height: 150px;">
-</a>
 
 ## Technical Skills
 - **Languages:** Python, JavaScript, Typescript, HTML/CSS
