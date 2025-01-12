@@ -6,8 +6,8 @@
       <h1>💚  product leader focused on social innovation, growth of sustainable enterprise, and healthy digital transformation  💚</h1>
       <p>🌊🏔️🌳 social impact focused human passionate about creating better products faster 🌊🏔️🌳</p>
     </td>
-    <td style="width: 150px;">
-      <img src="https://github.com/davidkoehn/davidkoehn/blob/main/DavidKoehn%20GitHub%20Profile.png" alt="David Koehn GitHub Profile" style="width: 150px;">
+    <td style="width: 200px;">
+      <img src="https://github.com/davidkoehn/davidkoehn/blob/main/DavidKoehn%20GitHub%20Profile.png" alt="David Koehn GitHub Profile" style="width: 200px;">
     </td>
   </tr>
 </table>
