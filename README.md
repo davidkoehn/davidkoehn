@@ -58,7 +58,7 @@
 😄 Pronouns: ... 😄
 - he/him
 
-##Past Products/Projects I'm Proud of:
+## Past Products/Projects I'm Proud of:
 * Saba Social Learning
 * Oracle Learn Cloud
 * D2ls' Brightspace
