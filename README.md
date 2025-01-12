@@ -1,6 +1,8 @@
-# Hi there, I'm David Koehn 👋
+![Header](https://github.com/davidkoehn/davidkoehn/blob/main/header.png)
 
-🌊🏔️🌳 social impact builder passionate about creating better products faster 🌊🏔️🌳 
+# 💚 💚 product leader focused on innovation, growth, and transformation 💚 💚
+
+🌊🏔️🌳 social impact focused human passionate about creating better products faster 🌊🏔️🌳 
 
 ## 🔭 I’m currently working with ...
 
