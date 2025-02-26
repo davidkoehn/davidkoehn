@@ -76,7 +76,7 @@
 - **Tools:** OpenAI APIs, Git, Docker, Supabase, Lovable, Hunch, Vercel, Visual Studio
 
 ### Cool tool time with Hunch: [Company Name & URL to Innovation MVP](https://app.hunch.tools/app/canvas/new/Mr7WxR)
-- ** automatically generates: Market Research Report, David Koehen's Product Suggestion, Initial Brainstorm of Ideas and Descriptions, +/- 6 Key Personas, Perosna Back Check, Brand Identity Clarification, Doblin Ten Types of Innovation, Sc-fi Dream about the Vision, Current Technology Version, Product Description and Value Proposition, Product Naming Process, Press Release, Key Assumptions, Impacts, Non-Functional Requirements, Strategic Analysis, Moat Building Priorities, Product Positioning, Risks Analysis, Positioning Summary, Cost Estimate and NPV/ROI Analysis, MVP Planning, Product Brief, Product Specification, Figma Specs w/broken Figma Rendererm Screen by Screen Descriptions, Architecture & IA. More to be added over time...
+- automatically generates: Market Research Report, David Koehen's Product Suggestion, Initial Brainstorm of Ideas and Descriptions, +/- 6 Key Personas, Perosna Back Check, Brand Identity Clarification, Doblin Ten Types of Innovation, Sc-fi Dream about the Vision, Current Technology Version, Product Description and Value Proposition, Product Naming Process, Press Release, Key Assumptions, Impacts, Non-Functional Requirements, Strategic Analysis, Moat Building Priorities, Product Positioning, Risks Analysis, Positioning Summary, Cost Estimate and NPV/ROI Analysis, MVP Planning, Product Brief, Product Specification, Figma Specs w/broken Figma Rendererm Screen by Screen Descriptions, Architecture & IA. More to be added over time...
 
 ## Current Projects
 
