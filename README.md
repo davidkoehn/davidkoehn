@@ -77,6 +77,16 @@
 
 ## Current Projects
 
+[SnapShop: AI Driven Store Scanner for Large South American Food & Bev Company](
+https://github.com/davidkoehn/snapshop-io-773dacd5) :
+- an application that:
+- intakes the POS inventory as a set of data to optimize inventory based on square meters of surface area
+- scans and scores beverage and nonbev presentation/face in a shop based on planogram 
+- evaluates and scores the state of and the adherence to planograms marketing surface areas
+- looks for evidence of sustainability, such as recycling bins, and aligns with SDGs.
+- prioritizes the primary role of shopkeep and incentivizes their participation through social networking and corporate rewards
+- partial support for roles such as distributor/rainer, auditor/secret shopper, and analyst/exec. 
+
 [AI Driven Startup Application for Funding with AI Driven Reporting for Limited Partners ](https://github.com/davidkoehn/funding-journey-quest) :
 
 - An application for startups to apply for funding at Pocket Ventures. 
