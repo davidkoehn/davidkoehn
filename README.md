@@ -77,7 +77,7 @@
 
 ## Current Projects
 
-[Collections: AI-assessed inventory of uploaded images about collectibles. "Picture This" for sellable collectibles with seller, buyer and operations manager roles.](https://github.com/davidkoehn/collections)
+[Collections: AI-assessed inventory of uploaded images about collectibles. "Picture This" for sellable collectibles with seller, buyer and operations manager roles.](https://github.com/davidkoehn/collections) :
 - streamlines inventory management by enabling operations to create seller profiles, bulk upload instruments, and share secure data-collection links with sellers.
 - integrated valuation tools provide automated price estimates, helping sellers understand their collection's worth before committing to vend.
 - three interconnected user experiences (ops, seller, and buyer) create a seamless workflow from initial instrument upload through auction preparation.
