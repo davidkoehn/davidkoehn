@@ -32,9 +32,7 @@
 
 ## Currently working with ...  
 
-- StringTree as a consultant/fractional CPO
-- Classera as a consultant/fractional CPO
-- Pocket Ventures as a Maker
+- Skillsoft 
   
 ##  ...contact [me](https://www.linkedin.com/in/davidkoehn/) to assist you 🔭
 
