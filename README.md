@@ -32,7 +32,8 @@
 
 ## Currently working with ...  
 
-- Skillsoft 
+- Skillsoft
+- SJSU
   
 ##  ...contact [me](https://www.linkedin.com/in/davidkoehn/) to assist you 🔭
 
