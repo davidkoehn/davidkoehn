@@ -119,8 +119,6 @@ https://github.com/davidkoehn/snapshop-io-773dacd5) :
 - [Sky](https://bsky.app/profile/davidkoehn.bsky.social)
 - [Web](https://david-koehn.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidkoehn&show_icons=true)
-
 ## Currently learning ... 
 - studying Bonds and their utility with Principles of Responsible Investment (PRI)
 - Deep in Crypto and Blockhain
